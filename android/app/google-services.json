@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "150355029586",
+    "project_id": "foot-wear-club",
+    "storage_bucket": "foot-wear-club.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:150355029586:android:7266129b5cce6a2a7e398b",
+        "android_client_info": {
+          "package_name": "com.example.footwearclub"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "150355029586-6pqvv05ts17rjj4rksbv03v9ogsqslba.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.footwearclub",
+            "certificate_hash": "d823a9efb6adc5616919cb308b409bcddac9dbe1"
+          }
+        },
+        {
+          "client_id": "150355029586-7230pqpvjonev5ddp8fj3hsqaan8pu12.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-ZMLSfUsV31mnpI-FCdGhrT2-sk8qEGQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "150355029586-7230pqpvjonev5ddp8fj3hsqaan8pu12.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
